@@ -1,2 +1,2 @@
 # ballonsat-bus
-PDB, C&amp;DG, COMMS, CAN-FD for a balloonsat.
+PDB, C&DH + COMMS or C3, CAN-FD for a balloonsat.
