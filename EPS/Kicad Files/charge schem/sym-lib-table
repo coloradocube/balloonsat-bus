@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "MAX77757_functional")(type "KiCad")(uri "${KIPRJMOD}/MAX77757_functional.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX17055")(type "Legacy")(uri "/Users/sethschisler/Downloads/Chrome Downloads/ul_MAX17055EWL-T/KiCAD/2022-01-24_20-02-48/2022-01-24_20-02-48.lib")(options " pwr_sym_only")(descr ""))
+  (lib (name "MAX17055_functional")(type "KiCad")(uri "${KIPRJMOD}/MAX17055_functional.kicad_sym")(options "")(descr ""))
+  (lib (name "77757 symb")(type "Legacy")(uri "/Users/sethschisler/Downloads/Chrome Downloads/ul_MAX77757JEFG435-/KiCAD/2022-01-24_19-45-23/2022-01-24_19-45-23.lib")(options "")(descr ""))
+)
