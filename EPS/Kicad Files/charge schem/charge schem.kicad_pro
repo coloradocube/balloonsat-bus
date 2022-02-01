@@ -281,7 +281,7 @@
   "schematic": {
     "annotate_start_num": 0,
     "drawing": {
-      "default_line_thickness": 2.0,
+      "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
       "intersheets_ref_own_page": false,
