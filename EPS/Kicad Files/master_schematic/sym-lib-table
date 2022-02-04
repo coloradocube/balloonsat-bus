@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MAX77757_functional")(type "KiCad")(uri "C:/Users/alecj/Documents/GitHub/balloonsat-bus/EPS/Kicad Files/charge schem/MAX77757_functional.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX17055")(type "Legacy")(uri "/Users/sethschisler/Downloads/Chrome Downloads/ul_MAX17055EWL-T/KiCAD/2022-01-24_20-02-48/2022-01-24_20-02-48.lib")(options " pwr_sym_only")(descr ""))
+)
