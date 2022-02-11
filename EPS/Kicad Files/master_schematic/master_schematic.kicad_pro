@@ -328,6 +328,10 @@
     [
       "26a06af6-a463-4c0b-bc99-b7ef2964e4cd",
       "charge schem"
+    ],
+    [
+      "9fdbccc2-2f8e-4736-8eda-6be5762e5cd4",
+      "MCU_CAN"
     ]
   ],
   "text_variables": {}
