@@ -435,7 +435,7 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "CDH.cad",
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
