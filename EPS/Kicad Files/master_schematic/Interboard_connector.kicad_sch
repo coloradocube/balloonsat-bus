@@ -622,7 +622,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x20_Odd_Even") (at 123.19 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ba9a4ebf-5eec-4d42-b8b4-9df72964a241)
-    (property "Reference" "J1" (id 0) (at 124.46 57.15 0))
+    (property "Reference" "J3" (id 0) (at 124.46 57.15 0))
     (property "Value" "Conn_02x20_Odd_Even" (id 1) (at 124.46 59.69 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical" (id 2) (at 123.19 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
