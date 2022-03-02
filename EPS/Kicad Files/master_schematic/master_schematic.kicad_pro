@@ -424,16 +424,20 @@
       "charge schem"
     ],
     [
-      "4e16fedc-a38b-401e-a5de-03896de0e471",
-      "DEBUG_INTERFACE"
-    ],
-    [
       "009ce997-1584-43ca-93af-c5bcacd4d4e9",
       "Interboard_connector"
     ],
     [
       "3a06e4e0-634b-426a-a0ab-d37016f35ddc",
       "ColoradoCUBE_Payload"
+    ],
+    [
+      "68881549-1588-438c-abf8-f6f2c2b6b5a2",
+      "OVP"
+    ],
+    [
+      "4e16fedc-a38b-401e-a5de-03896de0e471",
+      "DEBUG_INTERFACE"
     ],
     [
       "a47b42ae-0735-4637-85df-404ec278273a",

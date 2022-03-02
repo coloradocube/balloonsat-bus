@@ -1,4 +1,18 @@
-19823083363154875
+19829842588711312
+3.6zener
+PD3Z284C3V6-7
+
+
+0
+2
+2
+5.1zener
+BZX884B5V1L-HG3-08
+
+
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84482,17 +84496,38 @@ varistor SIOV
 0
 2
 2
-max77757
-IC_MAX77757JEFG435+
+footprints
+MINISMDC075F-2
 
 
 0
-19
-19
-molex connector
-436500212
+2
+2
+footprints1
+TSR 2-0518
+
+
+0
+3
+3
+footprints2
+PSF4NTEBL500F
 
 
 0
 4
 4
+fzt688bta_footprint
+SOT230P700X180-4N
+
+
+0
+4
+4
+mosfet
+PJC7438
+
+
+0
+3
+3
