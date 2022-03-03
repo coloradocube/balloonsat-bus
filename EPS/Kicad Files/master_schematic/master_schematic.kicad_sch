@@ -752,7 +752,7 @@
       (reference "C21") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/68881549-1588-438c-abf8-f6f2c2b6b5a2/4c8bce28-a190-4be2-ac35-9540cf27f8ae"
-      (reference "CR1") (unit 1) (value "BZX884B5V1L-HG3-08") (footprint "CR_1L-HG3-08_VIS")
+      (reference "CR1") (unit 1) (value "BZX884B5V1L-HG3-08") (footprint "hg3-08:BZX884B5V1L-HG3-08")
     )
     (path "/26a06af6-a463-4c0b-bc99-b7ef2964e4cd/68ee057d-8a81-4aa4-8890-50b1d294969a"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
@@ -764,7 +764,7 @@
       (reference "D3") (unit 1) (value "DIODE") (footprint "Diode_SMD:D_0805_2012Metric")
     )
     (path "/68881549-1588-438c-abf8-f6f2c2b6b5a2/be4e4217-76b2-49d6-ac01-d4e643194de5"
-      (reference "D4") (unit 1) (value "PD3Z284C3V6-7") (footprint "PowerDI323_DIO")
+      (reference "D4") (unit 1) (value "PD3Z284C3V6-7") (footprint "PD3z284:PD3Z284C3V6-7")
     )
     (path "/3a06e4e0-634b-426a-a0ab-d37016f35ddc/4e16fedc-a38b-401e-a5de-03896de0e471/aa552342-8f67-489a-844d-ebd2bce3cdd6"
       (reference "D5") (unit 1) (value "RED") (footprint "LED_SMD:LED_0603_1608Metric")
@@ -800,16 +800,16 @@
       (reference "L1") (unit 1) (value ".47uH") (footprint "Inductor_SMD:L_1008_2520Metric")
     )
     (path "/68881549-1588-438c-abf8-f6f2c2b6b5a2/e41ab162-a2fa-44a9-91bd-bd7c3ab2148c"
-      (reference "Q1") (unit 1) (value "FZT688BTA") (footprint "Package_TO_SOT_THT:TO-39-3")
+      (reference "Q1") (unit 1) (value "FZT688BTA") (footprint "fzt:SOT230P700X180-4N")
     )
     (path "/68881549-1588-438c-abf8-f6f2c2b6b5a2/f968db49-d235-4124-9198-1a48098a8944"
-      (reference "Q2") (unit 1) (value "FZT688BTA") (footprint "Package_TO_SOT_THT:TO-39-3")
+      (reference "Q2") (unit 1) (value "FZT688BTA") (footprint "fzt:SOT230P700X180-4N")
     )
     (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/0eedaf4c-41f6-48ba-98ff-d706984035d0"
-      (reference "R1") (unit 1) (value "PSF4NTEBL500F") (footprint "footprints:PSF4NTEBL500F")
+      (reference "R1") (unit 1) (value "PSF4NTEBL500F") (footprint "psf4nt:PSF4NTEBL500F")
     )
     (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/15d23d40-e1de-4a7e-8dae-2d49cf508cd4"
-      (reference "R2") (unit 1) (value "PSF4NTEBL500F") (footprint "footprints:PSF4NTEBL500F")
+      (reference "R2") (unit 1) (value "PSF4NTEBL500F") (footprint "psf4nt:PSF4NTEBL500F")
     )
     (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/fd96f853-b86f-4839-b405-9056fd204602"
       (reference "R3") (unit 1) (value "10kΩ") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -896,13 +896,13 @@
       (reference "U5") (unit 1) (value "MAX77757JEFG435+") (footprint "max77757:IC_MAX77757JEFG435+")
     )
     (path "/26a06af6-a463-4c0b-bc99-b7ef2964e4cd/62903ce9-1929-4ae0-8378-6aa7c4209eef"
-      (reference "U6") (unit 1) (value "MAX17055EWL+T") (footprint "17055 foot:MAX17055EWL&plus_T")
+      (reference "U6") (unit 1) (value "MAX17055EWL+T") (footprint "max17055:MAX17055EWL_plus_T")
     )
     (path "/3a06e4e0-634b-426a-a0ab-d37016f35ddc/a47b42ae-0735-4637-85df-404ec278273a/ee7f89b1-017a-4a74-a6b7-58e6b5d8a56d"
-      (reference "U7") (unit 1) (value "ATA6560-GAQW-VAO") (footprint "CAN_footprint:ATA6560-GAQW-VAO")
+      (reference "U7") (unit 1) (value "ATA6560-GAQW-VAO") (footprint "ata6560:ATA6560-GAQW-VAO")
     )
     (path "/3a06e4e0-634b-426a-a0ab-d37016f35ddc/0b249c38-eaf1-4a09-b7d5-071bbc562b5d"
-      (reference "U8") (unit 1) (value "PIC18F27Q84-E/SP") (footprint "footprints:PIC18F27Q84-E&slash_SP")
+      (reference "U8") (unit 1) (value "PIC18F27Q84-E/SP") (footprint "pic18f27:PIC18F27Q84-E&slash_SP")
     )
   )
 )

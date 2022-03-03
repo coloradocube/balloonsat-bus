@@ -526,7 +526,7 @@
     (property "Value" "ATA6560-GAQW-VAO" (id 1) (at 127 88.9 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "CAN_footprint:ATA6560-GAQW-VAO" (id 2) (at 127 90.424 0)
+    (property "Footprint" "ata6560:ATA6560-GAQW-VAO" (id 2) (at 127 90.424 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 106.68 96.52 0)

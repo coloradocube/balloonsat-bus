@@ -954,7 +954,7 @@
     (property "Value" "PIC18F27Q84-E/SP" (id 1) (at 193.04 97.028 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "footprints:PIC18F27Q84-E&slash_SP" (id 2) (at 193.04 98.044 0)
+    (property "Footprint" "pic18f27:PIC18F27Q84-E&slash_SP" (id 2) (at 193.04 98.044 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 154.94 104.14 0)
