@@ -428,10 +428,6 @@
       "Interboard_connector"
     ],
     [
-      "a47b42ae-0735-4637-85df-404ec278273a",
-      "CAN_Transceiver"
-    ],
-    [
       "3a06e4e0-634b-426a-a0ab-d37016f35ddc",
       "ColoradoCUBE_Payload"
     ],
@@ -442,6 +438,10 @@
     [
       "4e16fedc-a38b-401e-a5de-03896de0e471",
       "DEBUG_INTERFACE"
+    ],
+    [
+      "a47b42ae-0735-4637-85df-404ec278273a",
+      "CAN_Transceiver"
     ]
   ],
   "text_variables": {}
