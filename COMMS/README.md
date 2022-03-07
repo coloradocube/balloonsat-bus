@@ -1,10 +1,11 @@
 # TO DO:
 
--Determine necessary tx/rx circuit between Lime mini and antenna
+-Determine necessary tx/rx circuit between HTC module and antenna
 
 -Identify and downselect rx/tx path parts
   
-    -amplifiers/attenuators etc
+    -amplifiers: LNA 00120
+    -attenuators?
 
 -Identify and downselect antenna
 
