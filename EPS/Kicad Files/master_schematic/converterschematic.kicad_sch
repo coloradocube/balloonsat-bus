@@ -1209,7 +1209,7 @@
   )
   (hierarchical_label "SCL" (shape input) (at 228.6 69.85 0)
     (effects (font (size 1.27 1.27)) (justify left))
-    (uuid c69d570d-9846-4a66-a272-9626429f186d)
+    (uuid c69d570d-9846-4a66-a272-9626429f186e)
   )
   (hierarchical_label "Vin" (shape input) (at 21.59 13.97 180)
     (effects (font (size 1.27 1.27)) (justify right))
