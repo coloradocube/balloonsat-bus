@@ -30,7 +30,7 @@ Wavelength band | Frequencies | Emission types authorized | Standards see § 97.
 
 (8) A RTTY or data emission having designators with A, B, C, D, E, F, G, H, J or R as the first symbol; 1, 2, 7, 9 or X as the second symbol; and D or W as the third symbol is also authorized.
 
-
+No station may transmit with a transmitter power exceeding 50 W PEP on the UHF 70 cm band from an area specified in paragraph (a) of footnote US270 in § 2.106, unless expressly authorized by the FCC after mutual agreement, on a case-by-case basis, between the Regional Director of the applicable field facility and the military area frequency coordinator at the applicable military base. An Earth station or telecommand station, however, may transmit on the 435-438 MHz segment with a maximum of 611 W effective radiated power (1 kW equivalent isotropically radiated power) without the authorization otherwise required. The transmitting antenna elevation angle between the lower half-power (−3 dB relative to the peak or antenna bore sight) point and the horizon must always be greater than 10°.
 
 
 
