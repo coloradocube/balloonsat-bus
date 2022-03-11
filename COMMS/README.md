@@ -20,6 +20,17 @@ https://www.seeedstudio.com/433Mhz-Wireless-Serial-Transceiver-Module-1-Kilomete
 LNA
 https://www.digikey.com/en/products/detail/signal-processing-group-inc./LNA%2520-00120/13980502?utm_adgroup=Signal%20Processing%20Group%20Inc&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_DK%2BSupplier_Other&utm_term=&utm_content=Signal%20Processing%20Group%20Inc&gclid=CjwKCAiA1JGRBhBSEiwAxXblwbAXTGDeDRQM1EYvt4CfAOFc4UvDOuQEqoSz-NYzY6nFP2amaY8hThoCWnwQAvD_BwE
 
+# Regulation Notes: ***NOT COMPREHENSIVE***
+
+70 cm Band (~430 MHz)
+
+(6) A RTTY, data or multiplexed emission using a specified digital code listed in § 97.309(a) of this part may be transmitted. The symbol rate must not exceed 56 kilobauds. A RTTY, data or multiplexed emission using an unspecified digital code under the limitations listed in § 97.309(b) of this part also may be transmitted. The authorized bandwidth is 100 kHz. 
+
+(8) A RTTY or data emission having designators with A, B, C, D, E, F, G, H, J or R as the first symbol; 1, 2, 7, 9 or X as the second symbol; and D or W as the third symbol is also authorized.
+
+
+
+
 
 # Links:
 
