@@ -25,6 +25,8 @@ https://www.digikey.com/en/products/detail/signal-processing-group-inc./LNA%2520
 
 Regulations:
 
+https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-97
+
 https://www.arrl.org/part-97-amateur-radio
 
 Frequency band notes:
