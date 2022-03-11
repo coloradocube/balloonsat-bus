@@ -23,8 +23,16 @@ https://www.digikey.com/en/products/detail/signal-processing-group-inc./LNA%2520
 
 # Links:
 
-https://www.arrl.org/band-plan
+Regulations:
+
+https://www.arrl.org/part-97-amateur-radio
 
 Frequency band notes:
 
+https://www.arrl.org/band-plan
+
 https://www.arrl.org/files/file/8803051.pdf
+
+Interference notes:
+
+https://www.arrl.org/radio-frequency-interference-rfi
