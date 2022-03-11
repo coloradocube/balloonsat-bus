@@ -24,3 +24,7 @@ https://www.digikey.com/en/products/detail/signal-processing-group-inc./LNA%2520
 # Links:
 
 https://www.arrl.org/band-plan
+
+Frequency band notes:
+
+https://www.arrl.org/files/file/8803051.pdf
