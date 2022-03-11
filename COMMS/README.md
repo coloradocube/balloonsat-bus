@@ -24,7 +24,7 @@ https://www.digikey.com/en/products/detail/signal-processing-group-inc./LNA%2520
 
 Wavelength band | Frequencies | Emission types authorized | Standards see § 97.307(f), paragraph:
 
-70 cm Band (~430 MHz)
+70 cm | Entire band | MCW, phone, image, RTTY, data, SS, test | (6), (8). 
 
 (6) A RTTY, data or multiplexed emission using a specified digital code listed in § 97.309(a) of this part may be transmitted. The symbol rate must not exceed 56 kilobauds. A RTTY, data or multiplexed emission using an unspecified digital code under the limitations listed in § 97.309(b) of this part also may be transmitted. The authorized bandwidth is 100 kHz. 
 
