@@ -3,10 +3,15 @@
 ## HARDWARE: Joint effort --> Kate, McKenna, Ashlee
 
   -Identify and procure antenna
+  
   -Build/Order cables (Including adapters if necessary)
+  
      -CDH to Xcvr
+     
      -Xcvr to LNA
+     
      -LNA to Antenna (If antenna doesnt come with one that works)
+     
      -Power to LNA
     
     
@@ -14,10 +19,13 @@
 ## LINK BUDGET: McKenna, Dan
   
   -Copy oresat diagram as starting point
+  
   https://github.com/oresat/oresat-c3-rf/blob/master/link-models/OreSat1_link_model_v2.5.5a_eng_primary.pdf
   
   -Determine if current parts provide correct power levels
+  
   -Estimate achievable data rate estimates
+  
   -Verify architecture will comply with FCC
  
  
@@ -25,8 +33,11 @@
 ## ENCODING/MODULATION: Kate, Ashlee 
   
   -Establish CDH (Rpi)/ Xcvr link
+  
   -Determine data encoding protocol
+  
   -Determine modulation scheme
+  
   
 ## MISC: Dan
 
