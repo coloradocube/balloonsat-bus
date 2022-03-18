@@ -24,7 +24,7 @@
   
   -Determine if current parts provide correct power levels
   
-  -Estimate achievable data rate estimates
+  -Estimate achievable data rate
   
   -Verify architecture will comply with FCC
  
