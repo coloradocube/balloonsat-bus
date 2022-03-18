@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/danieltucker/Desktop/Battery holder/Battery Board/Battery Board.kicad_sch</source>
+    <date>Wednesday, March 02, 2022 at 03:36:58 PM</date>
+    <tool>Eeschema (6.0.2-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Battery Board.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="F1">
+      <value>65800001009</value>
+      <footprint>Fuse holder:65800001009</footprint>
+      <libsource lib="Fuse holder" part="65800001009" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Battery Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3df16b12-b741-451a-ac85-c8cc77913541</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>65800001009</value>
+      <footprint>Fuse holder:65800001009</footprint>
+      <libsource lib="Fuse holder" part="65800001009" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Battery Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d0a1314-28fb-4c58-810a-125b987a2a1a</tstamps>
+    </comp>
+    <comp ref="F3">
+      <value>65800001009</value>
+      <footprint>Fuse holder:65800001009</footprint>
+      <libsource lib="Fuse holder" part="65800001009" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Battery Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48213804-b147-412b-b3bd-4c811e7d90af</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>436500212</value>
+      <footprint>Connecter:436500212</footprint>
+      <libsource lib="Connecter" part="436500212" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Battery Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fecbb2c-66a7-410f-9195-8f70d34a6e34</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>1042</value>
+      <footprint>Battery holder:1042</footprint>
+      <libsource lib="Battery holder" part="1042" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Battery Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4380b1b6-d386-4c18-a542-47b1575d0681</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>1042</value>
+      <footprint>Battery holder:1042</footprint>
+      <libsource lib="Battery holder" part="1042" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Battery Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b67de945-167e-4c71-8150-93621bb7a970</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>1042</value>
+      <footprint>Battery holder:1042</footprint>
+      <libsource lib="Battery holder" part="1042" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Battery Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>994c32d1-a670-4f29-990c-671f381e0877</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Battery holder" part="1042">
+      <footprints>
+        <fp>1042_KEY</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">1042</field>
+        <field name="Footprint">1042_KEY</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connecter" part="436500212">
+      <footprints>
+        <fp>CON_436500212</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">436500212</field>
+        <field name="Footprint">CON_436500212</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="P1" name="P1" type="unspecified"/>
+        <pin num="P2" name="P2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Fuse holder" part="65800001009">
+      <footprints>
+        <fp>FUSE_658_LTF</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">65800001009</field>
+        <field name="Footprint">FUSE_658_LTF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Battery holder">
+      <uri>/Users/danieltucker/Desktop/Battery holder/Parts/ul_1042/KiCAD/2022-01-26_19-30-56/2022-01-26_19-30-56.lib</uri>
+    </library>
+    <library logical="Connecter">
+      <uri>/Users/danieltucker/Desktop/Battery holder/Parts/ul_436500212/KiCAD/2022-02-18_20-41-01/2022-02-18_20-41-01.lib</uri>
+    </library>
+    <library logical="Fuse holder">
+      <uri>/Users/danieltucker/Desktop/Battery holder/Parts/ul_65800001009/KiCAD/2022-02-21_19-58-52/2022-02-21_19-58-52.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="J1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U3" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="2" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U1" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="3" name="Net-(F2-Pad1)">
+      <node ref="F2" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U2" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="4" name="Net-(F3-Pad1)">
+      <node ref="F3" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U3" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="5" name="Net-(J1-PadP1)">
+      <node ref="F1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="F2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="F3" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J1" pin="P1" pinfunction="P1" pintype="unspecified"/>
+    </net>
+    <net code="6" name="unconnected-(J1-PadP2)">
+      <node ref="J1" pin="P2" pinfunction="P2" pintype="unspecified"/>
+    </net>
+  </nets>
+</export>
