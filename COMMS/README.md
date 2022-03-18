@@ -1,6 +1,6 @@
 # TO DO:
 
-HARDWARE: Joint effort --> Kate, McKenna, Ashlee
+## HARDWARE: Joint effort --> Kate, McKenna, Ashlee
 
   -Identify and procure antenna
   -Build/Order cables (Including adapters if necessary)
