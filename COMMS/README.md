@@ -11,7 +11,7 @@
     
     
     
-LINK BUDGET: McKenna, Dan
+## LINK BUDGET: McKenna, Dan
   
   -Copy oresat diagram as starting point
   https://github.com/oresat/oresat-c3-rf/blob/master/link-models/OreSat1_link_model_v2.5.5a_eng_primary.pdf
@@ -22,13 +22,13 @@ LINK BUDGET: McKenna, Dan
  
  
  
-ENCODING/MODULATION: Kate, Ashlee 
+## ENCODING/MODULATION: Kate, Ashlee 
   
   -Establish CDH (Rpi)/ Xcvr link
   -Determine data encoding protocol
   -Determine modulation scheme
   
-MISC: Dan
+## MISC: Dan
 
   -Talk to EOSS about freq usage and see if they have antenna recommendation
 
