@@ -1,19 +1,35 @@
 # TO DO:
 
--Determine necessary tx/rx circuit between HTC module and antenna
+HARDWARE: Joint effort --> Kate, McKenna, Ashlee
 
--Identify and downselect rx/tx path parts
+  -Identify and procure antenna
+  -Build/Order cables (Including adapters if necessary)
+     -CDH to Xcvr
+     -Xcvr to LNA
+     -LNA to Antenna (If antenna doesnt come with one that works)
+     -Power to LNA
+    
+LINK BUDGET: McKenna, Dan
   
-    -amplifiers: LNA 00120
-    -attenuators?
+  -Copy oresat diagram as starting point
+  https://github.com/oresat/oresat-c3-rf/blob/master/link-models/OreSat1_link_model_v2.5.5a_eng_primary.pdf
+  
+  -Determine if current parts provide correct power levels
+  -Estimate achievable data rate estimates
+  -Verify architecture will comply with FCC
+ 
+ENCODING/MODULATION: Kate, Ashlee 
+  
+  -Establish CDH (Rpi)/ Xcvr link
+  -Determine data encoding protocol
+  -Determine modulation scheme
+  
+MISC: Dan
 
--Identify and downselect antenna
-
--Build out block diagram to level 2
+  -Talk to EOSS about freq usage and see if they have antenna recommendation
 
 
-
-Parts:
+# Parts:
 HTC
 https://www.seeedstudio.com/433Mhz-Wireless-Serial-Transceiver-Module-1-Kilometer-p-1733.html
 
