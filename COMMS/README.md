@@ -9,6 +9,8 @@ HARDWARE: Joint effort --> Kate, McKenna, Ashlee
      -LNA to Antenna (If antenna doesnt come with one that works)
      -Power to LNA
     
+    
+    
 LINK BUDGET: McKenna, Dan
   
   -Copy oresat diagram as starting point
@@ -17,6 +19,8 @@ LINK BUDGET: McKenna, Dan
   -Determine if current parts provide correct power levels
   -Estimate achievable data rate estimates
   -Verify architecture will comply with FCC
+ 
+ 
  
 ENCODING/MODULATION: Kate, Ashlee 
   
