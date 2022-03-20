@@ -55,7 +55,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "track_dangling|68580000|80111600|70901243-d56a-4e60-9069-5d167a2eaa7e|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -378,7 +380,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "../../../../../../Applications/KiCad/",
+      "netlist": "master_schematic.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -441,10 +443,6 @@
       "Interboard_connector"
     ],
     [
-      "a47b42ae-0735-4637-85df-404ec278273a",
-      "CAN_Transceiver"
-    ],
-    [
       "3a06e4e0-634b-426a-a0ab-d37016f35ddc",
       "ColoradoCUBE_Payload"
     ],
@@ -455,6 +453,10 @@
     [
       "4e16fedc-a38b-401e-a5de-03896de0e471",
       "DEBUG_INTERFACE"
+    ],
+    [
+      "a47b42ae-0735-4637-85df-404ec278273a",
+      "CAN_Transceiver"
     ]
   ],
   "text_variables": {}
