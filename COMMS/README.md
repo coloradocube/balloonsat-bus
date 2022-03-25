@@ -82,3 +82,16 @@ https://www.arrl.org/files/file/8803051.pdf
 Interference notes:
 
 https://www.arrl.org/radio-frequency-interference-rfi
+
+
+# Notes from 3/25
+
+Trying to get response from Rpi to HC-12 via AT command mode
+
+-are we configuring rpi uart correctly?
+
+-is our terminal setting/using the right baud (9600), default for pi is 115200
+
+-are we setting the HC-12 correctly to get into AT command mode?
+
+-maybe we skip and go straight for module to module comms? (means no way to verify hc-12 settings)
