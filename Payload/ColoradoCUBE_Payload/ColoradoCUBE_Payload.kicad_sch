@@ -2052,7 +2052,7 @@
     (property "Reference" "J5" (id 0) (at 183.515 169.545 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x02" (id 1) (at 175.26 171.45 0)
+    (property "Value" "PH1-02-UA" (id 1) (at 175.26 171.45 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 185.42 173.99 0)
@@ -2411,7 +2411,7 @@
     (property "Reference" "J6" (id 0) (at 200.025 174.6249 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x02" (id 1) (at 200.025 177.1649 0)
+    (property "Value" "PH1-02-UA" (id 1) (at 200.025 177.1649 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 197.485 174.625 0)
@@ -2761,22 +2761,22 @@
       (reference "D11") (unit 1) (value "LED_Filled") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/a54bb4a4-64bd-4fc7-8376-db68e860606d/ba9a4ebf-5eec-4d42-b8b4-9df72964a241"
-      (reference "J1") (unit 1) (value "Conn_02x20_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "SSQ-120-03-F-D") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical")
     )
     (path "/4e16fedc-a38b-401e-a5de-03896de0e471/d3a51349-28f4-4529-a091-383e21c10a0b"
-      (reference "J2") (unit 1) (value "Generic_Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+      (reference "J2") (unit 1) (value "PH1-05-UA") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
     (path "/6299f9ac-1866-4f01-b940-99842e389c60/9ed03423-b6ef-4bb6-b432-c288d55eeee5"
-      (reference "J3") (unit 1) (value "Conn_01x06") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+      (reference "J3") (unit 1) (value "PR20206VBNN") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
     )
     (path "/6299f9ac-1866-4f01-b940-99842e389c60/adb484dc-73c8-4e47-871f-1a5ed34a3c70"
-      (reference "J4") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J4") (unit 1) (value "PR20204VBNN") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/a92fecd7-fcdd-4662-bf7e-0f0ead02fa68"
-      (reference "J5") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "J5") (unit 1) (value "PH1-02-UA") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/f1eba9c4-f8a5-4823-93f0-cf312e14817b"
-      (reference "J6") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "J6") (unit 1) (value "PH1-02-UA") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/ad362c4a-d6fc-42f8-b835-58c29e5853e6"
       (reference "J7") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")

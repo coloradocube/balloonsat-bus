@@ -7,4 +7,5 @@
   (lib (name "THD-20-R")(type "KiCad")(uri "C:/Users/smail/OneDrive/Documents/KiCad/CDH/libraries/THD-20-R")(options "")(descr ""))
   (lib (name "USB4105-GF-A")(type "KiCad")(uri "C:/Users/smail/OneDrive/Documents/KiCad/CDH/libraries/USB4105-GF-A")(options "")(descr ""))
   (lib (name "ul_MCP2510-E-SO")(type "KiCad")(uri "C:/Users/smail/Downloads/ul_MCP2510-E-SO")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/smail/OneDrive/Documents/KiCad/CDH/libraries/S04B-PASK-2_LF__SN_/footprints.pretty")(options "")(descr ""))
 )

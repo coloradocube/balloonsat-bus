@@ -12,8 +12,105 @@
   )
 
   (lib_symbols
+    (symbol "Mechanical:MountingHole" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+      (property "Reference" "H" (id 0) (at 0 5.08 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Value" "MountingHole" (id 1) (at 0 3.175 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Footprint" "" (id 2) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "~" (id 3) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "mounting hole" (id 4) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Mounting Hole without connection" (id 5) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_fp_filters" "MountingHole*" (id 6) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "MountingHole_0_1"
+        (circle (center 0 0) (radius 1.27)
+          (stroke (width 1.27) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+      )
+    )
   )
 
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 53.34 115.57 0) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid 25e21b76-e342-4a30-932e-18b3dc0e3a56)
+    (property "Reference" "H1" (id 0) (at 49.53 113.03 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Value" "3mm_Mounting_Hole" (id 1) (at 53.34 119.38 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Footprint" "MountingHole:MountingHole_3mm" (id 2) (at 50.8 115.57 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 50.8 115.57 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 71.12 129.54 0) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid 2bbcd688-c713-49b1-b461-3b30af8b6f2f)
+    (property "Reference" "H3" (id 0) (at 67.31 127 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Value" "3mm_Mounting_Hole" (id 1) (at 71.12 133.35 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Footprint" "MountingHole:MountingHole_3mm" (id 2) (at 68.58 129.54 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 68.58 129.54 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 53.34 129.54 0) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid 4607fa52-2505-4a0e-9dec-7cbc6611f277)
+    (property "Reference" "H2" (id 0) (at 49.53 127 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Value" "3mm_Mounting_Hole" (id 1) (at 53.34 133.35 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Footprint" "MountingHole:MountingHole_3mm" (id 2) (at 50.8 129.54 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Datasheet" "~" (id 3) (at 50.8 129.54 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 74.93 116.84 0) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid cec6c64f-91da-40ef-8328-2db8b22926f4)
+    (property "Reference" "H4" (id 0) (at 71.12 114.3 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Value" "3mm_Mounting_Hole" (id 1) (at 74.93 120.65 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Footprint" "MountingHole:MountingHole_3mm" (id 2) (at 72.39 116.84 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 72.39 116.84 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+  )
 
   (sheet (at 101.6 101.6) (size 38.1 38.1)
     (stroke (width 0) (type solid) (color 132 0 132 1))
@@ -94,6 +191,12 @@
     (path "/caa71f4c-454d-4ac9-b287-456eafb34991/11143329-dd8d-4cc3-8fa4-452667b02f06"
       (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
     )
+    (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/1bed7366-6d00-4f7d-a09d-97e3a56f206a"
+      (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/58fa8ecc-baf9-437b-a607-8a18b6973e48"
+      (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
+    )
     (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/c3d2db6e-c256-429f-9fa3-16b8bad2bd05"
       (reference "C1") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -109,16 +212,16 @@
     (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/15f875cc-7b84-4cb1-9382-30fb7facf120"
       (reference "D2") (unit 1) (value "LED Red") (footprint "LED_SMD:LED_0603_1608Metric")
     )
-    (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/adb08c0f-5645-40b7-b722-3cd2656cfe17"
+    (path "/25e21b76-e342-4a30-932e-18b3dc0e3a56"
       (reference "H1") (unit 1) (value "3mm_Mounting_Hole") (footprint "MountingHole:MountingHole_3mm")
     )
-    (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/5c6d47d9-8c39-4c04-a624-b428c80c80c8"
+    (path "/4607fa52-2505-4a0e-9dec-7cbc6611f277"
       (reference "H2") (unit 1) (value "3mm_Mounting_Hole") (footprint "MountingHole:MountingHole_3mm")
     )
-    (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/562a1b50-5de7-4b91-85dd-2aba4287c4e8"
+    (path "/2bbcd688-c713-49b1-b461-3b30af8b6f2f"
       (reference "H3") (unit 1) (value "3mm_Mounting_Hole") (footprint "MountingHole:MountingHole_3mm")
     )
-    (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/2cf57db8-1634-44e6-8841-f3c4ce964ff3"
+    (path "/cec6c64f-91da-40ef-8328-2db8b22926f4"
       (reference "H4") (unit 1) (value "3mm_Mounting_Hole") (footprint "MountingHole:MountingHole_3mm")
     )
     (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/6c13f50c-e731-43ee-a80f-d6bc6a2c825e"
@@ -135,6 +238,12 @@
     )
     (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/7cf8d70a-e06b-4ea2-9366-a7f0df234ebd"
       (reference "Module2") (unit 1) (value "ComputeModule4-CM4") (footprint "CM4IO:Raspberry-Pi-4-Compute-Module")
+    )
+    (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/556c9b2a-5950-4d53-bb1a-d7e394af1555"
+      (reference "P1") (unit 1) (value "S04B-PASK-2(LF)(SN)") (footprint "S04B-PASK-2_LF__SN_:JST_S04B-PASK-2(LF)(SN)")
+    )
+    (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/d20c00be-36a3-4207-a563-f7a51b63bab1"
+      (reference "P2") (unit 1) (value "S04B-PASK-2(LF)(SN)") (footprint "S04B-PASK-2_LF__SN_:JST_S04B-PASK-2(LF)(SN)")
     )
     (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/6d2fbd43-29f2-4af8-9a1e-adc59259bbbf"
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")

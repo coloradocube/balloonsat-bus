@@ -6,4 +6,5 @@
   (lib (name "ATA6560-GAQW-VAO")(type "Legacy")(uri "C:/Users/smail/OneDrive/Documents/KiCad/CDH/libraries/ATA6560-GAQW-VAO/ATA6560-GAQW-VAO.lib")(options "")(descr ""))
   (lib (name "2022-01-24_20-48-50")(type "Legacy")(uri "C:/Users/smail/OneDrive/Documents/KiCad/CDH/libraries/THD-20-R/2022-01-24_20-48-50.lib")(options "")(descr ""))
   (lib (name "MCP2510")(type "Legacy")(uri "C:/Users/smail/OneDrive/Documents/KiCad/CDH/libraries/ul_MCP2510-E-SO/KiCAD/2022-01-17_00-56-37/2022-01-17_00-56-37.lib")(options "")(descr ""))
+  (lib (name "S04B-PASK-2_LF__SN_")(type "Legacy")(uri "C:/Users/smail/OneDrive/Documents/KiCad/CDH/libraries/S04B-PASK-2_LF__SN_/S04B-PASK-2_LF__SN_.lib")(options "")(descr ""))
 )
