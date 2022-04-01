@@ -1000,7 +1000,7 @@
   (symbol (lib_id "Simulation_SPICE:DIODE") (at 328.93 77.47 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4bff1f15-0047-457d-ac78-28e14a16e610)
-    (property "Reference" "D3" (id 0) (at 328.93 71.12 0))
+    (property "Reference" "Din1" (id 0) (at 328.93 71.12 0))
     (property "Value" "DIODE" (id 1) (at 328.93 73.66 0))
     (property "Footprint" "Diode_SMD:D_0805_2012Metric" (id 2) (at 328.93 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
