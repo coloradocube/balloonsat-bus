@@ -83,6 +83,10 @@ Interference notes:
 
 https://www.arrl.org/radio-frequency-interference-rfi
 
+Swapping UART ports for rpi compute module 4
+
+https://docs.turta.io/how-tos/raspberry-pi/raspbian/swapping-the-serial-ports
+
 
 # Notes from 3/25
 
