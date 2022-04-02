@@ -1,0 +1,18 @@
+.MS580502BA01-50 :1 ;MS580502BA01-50, Barometric Pressure Sensor, 2000mbar 0  3.6 V Output, 4-Pin
+MS580502BA0150
+*STM U
+*NGS
+*PLB 1="VDD" 2="SCL" 3="SDA" 4="GND"
+*MXP 4
+*DFN MS580502BA01-50
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (MS580502BA01-50)
+~!Mouser Part Number (824-MS580502BA01-50)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Measurement-Specialties/MS580502BA01-50?qs=ZSTLft15nNCijUTmbpZ1Dg%3D%3D)
+~!Arrow Part Number (MS580502BA01-50)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ms580502ba01-50/te-connectivity)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5805-02BA01&DocType=Data+Sheet&DocLang=English&PartCntxt=MS580502BA01-50&DocFormat=pdf)
+~!Height (3mm)
+~!3D_Model (MS580502BA01-50)
+MS580502BA01-50
+1.1!U 2.1!U 3.1!U 4.1!U 

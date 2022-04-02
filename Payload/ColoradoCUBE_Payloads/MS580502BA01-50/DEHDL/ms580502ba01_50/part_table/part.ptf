@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MS580502BA01_50'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "MS580502BA01-50" (!) = "", "MS580502BA0150", "Other", "824-MS580502BA01-50", "https://www.mouser.co.uk/ProductDetail/Measurement-Specialties/MS580502BA01-50?qs=ZSTLft15nNCijUTmbpZ1Dg%3D%3D", "MS580502BA01-50", "https://www.arrow.com/en/products/ms580502ba01-50/te-connectivity", "MS580502BA01-50, Barometric Pressure Sensor, 2000mbar 0  3.6 V Output, 4-Pin", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5805-02BA01&DocType=Data+Sheet&DocLang=English&PartCntxt=MS580502BA01-50&DocFormat=pdf", "3 mm"
+END_PART
+
+END.
