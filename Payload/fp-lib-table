@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "temp_sensor")(type "KiCad")(uri "E:/ALL_School_Staff/Senior_Project_II/ColoradoCUBE_Payloads (2)/ColoradoCUBE_Payloads/Temp_sensor/ul_SHT40-AD1B-R2/KiCAD/2022-02-02_23-27-13/temp_sensor.pretty")(options "")(descr ""))
+)
