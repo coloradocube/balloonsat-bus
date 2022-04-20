@@ -19,7 +19,8 @@ The following is a list of modifications to do per board for Version 0.2 to be o
 5. (Nice to have) An IMU sensor integrated into the I2C-to-CAN design paradigm of the sensor board.
 
 ## CDH
-1. Should be re-programmable in place, w/o disassembling the stack.
+1. Should be re-programmable in place, w/o disassembling the stack. _Moving the CM 4 (currently the only one) between the CDH and the IO Board will eventually damage the connector._
+2. The two UART connectors have to be pushed in toward the center of the board or turned sideways.
 
 ## EPS
 1. Same as (1) for [sensors](#sensors).
