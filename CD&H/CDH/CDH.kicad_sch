@@ -264,7 +264,7 @@
       (reference "U1") (unit 1) (value "ATA6560-GAQW-VAO") (footprint "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm")
     )
     (path "/caa71f4c-454d-4ac9-b287-456eafb34991/25c200c8-8d48-421b-ac68-c53b8df4e956"
-      (reference "U2") (unit 1) (value "TPD2EUSB30") (footprint "Package_TO_SOT_SMD:Texas_DRT-3")
+      (reference "U2") (unit 1) (value "TPD2EUSB30ADRTR") (footprint "Package_TO_SOT_SMD:Texas_DRT-3")
     )
     (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/063c1faa-3e03-4e00-977c-3bc076a91e14"
       (reference "U3") (unit 1) (value "MCP2510-E/SO") (footprint "Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm")
