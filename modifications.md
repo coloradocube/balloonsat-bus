@@ -18,7 +18,7 @@ The following is a list of modifications to do per board for Version 0.2 to be o
    <img src="assets/sensor-leds.jpg" width="300" />   
 3. Button switch should be closer to the edge [supporting rail width] mm in.  
    <img src="assets/sensor-switch.jpg" width="300" />   
-4. There needs to be an I2C connection for an externally-hanging (outside of the craft shell) thermal sensor. The sensor housing should also be designed.  
+4. There needs to be an I2C connection for an externally-hanging (outside of the craft shell) thermal sensor. We'll use the SparkFun high-precision temperature sensor breakout. The I2C (Qwiic) connector is https://www.sparkfun.com/products/16766.  
 5. (Nice to have) An IMU sensor integrated into the I2C-to-CAN design paradigm of the sensor board.
 
 ## CDH
